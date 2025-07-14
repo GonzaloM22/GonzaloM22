@@ -2,6 +2,10 @@
 
 I'm a passionate web developer focused on building clean and scalable applications using modern technologies.
 
+Trying to become a better person every day. 🌿 
+I enjoy personal development and productivity.
+I enjoy working in teams and collaborating with other people.
+
 <!--
 **GonzaloM22/GonzaloM22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
