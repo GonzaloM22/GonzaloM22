@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! I'm Gonzalo 👋
+
+I'm a passionate web developer focused on building clean and scalable applications using modern technologies.
 
 <!--
 **GonzaloM22/GonzaloM22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
